@@ -4,6 +4,15 @@
 - 📫 How to reach me ... send me an email @ jcillo507@yahoo.com
 
 `const Joe = {
-<br/>
-  code:[Javascript, Solidity, HTML, CSS],
-}`
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "crypto"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        }        
+    }
+};`
